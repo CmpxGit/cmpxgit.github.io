@@ -2,7 +2,7 @@
 title: Compix Infotech
 email: info@compix.in
 description: We're currently working on creating something fantastic. #We're all different. [indicates Mr. Fox] Especially him. But there's something kind of fantastic about that, isn't there?
-baseurl: "/compixgit.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/cmpxgit.github.io" # the subpath of your site, e.g. /blog
 # url: 'http://compix.in' # the base hostname & protocol for your site
 
 author:
